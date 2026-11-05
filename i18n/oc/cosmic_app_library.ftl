@@ -1,7 +1,7 @@
 cancel = Anullar
 name = Nom
 xdg-title = { app-name }
-xdg-comment = Un aviador d’aplicacions pel burèu COSMIC que lista totas las aplicacions installadas dins una grasilha
+xdg-comment = Un aviador d’aplicacions pel burèu Zinc que lista totas las aplicacions installadas dins una grasilha
 xdg-keywords = Aplicacion;App;Bibliotèca;Aviador;Lançador;Amodador
 app-name = Aplicacions
 cosmic-library-home = Acuèlh

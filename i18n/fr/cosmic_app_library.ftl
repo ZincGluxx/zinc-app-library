@@ -26,6 +26,6 @@ system = Système
 local = Local
 nix = Nix
 xdg-title = { app-name }
-xdg-comment = Un lanceur d'applications pour le bureau COSMIC qui liste toutes les applications installées dans une grille
+xdg-comment = Un lanceur d'applications pour le bureau Zinc qui liste toutes les applications installées dans une grille
 xdg-keywords = App;Appli;Application;Librairie;Lanceur
 app-name = Applications

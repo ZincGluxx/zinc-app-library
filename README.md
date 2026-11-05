@@ -1,6 +1,6 @@
-# COSMIC App Library
+# Zinc App Library
 
-COSMIC App Library is an application launcher for the COSMIC desktop that lists all installed applications in a grid.
+Zinc App Library is an application launcher for the Zinc desktop that lists all installed applications in a grid.
 
 ## Build & Install
 

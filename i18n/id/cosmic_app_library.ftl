@@ -26,6 +26,6 @@ system = Sistem
 local = Lokal
 nix = Nix
 xdg-title = { app-name }
-xdg-comment = Peluncur aplikasi untuk desktop COSMIC yang mencantumkan semua aplikasi yang dipasang dalam kisi
+xdg-comment = Peluncur aplikasi untuk desktop Zinc yang mencantumkan semua aplikasi yang dipasang dalam kisi
 xdg-keywords = Apl;Aplikasi;Pustaka;Peluncur
 app-name = Aplikasi

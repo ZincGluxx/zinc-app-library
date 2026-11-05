@@ -26,6 +26,6 @@ system = 系统
 local = 本地
 nix = Nix
 xdg-title = { app-name }
-xdg-comment = COSMIC 桌面的应用程序启动器，以网格形式列出所有已安装的应用程序
+xdg-comment = Zinc 桌面的应用程序启动器，以网格形式列出所有已安装的应用程序
 app-name = 应用程序
 xdg-keywords = App;应用;应用程序;库;启动器

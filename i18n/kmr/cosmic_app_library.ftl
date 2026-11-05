@@ -28,4 +28,4 @@ system = Pergal
 xdg-title = { app-name }
 xdg-keywords = Sepan;Sepan;Pirtûkxane;Destpêker
 app-name = Sepan
-xdg-comment = Destpêkereke sepanê yeji bo sermaseya COSMIC ku hemû sepanên sazkirî di torekê de lîste dike
+xdg-comment = Destpêkereke sepanê yeji bo sermaseya Zinc ku hemû sepanên sazkirî di torekê de lîste dike

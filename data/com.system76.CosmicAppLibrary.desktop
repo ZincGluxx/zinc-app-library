@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Applications
-Comment=An application launcher for the COSMIC desktop that lists all installed applications in a grid
+Comment=An application launcher for the Zinc desktop that lists all installed applications in a grid
 Type=Application
 Exec=cosmic-app-library
 Terminal=false

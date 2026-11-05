@@ -26,6 +26,6 @@ system = Rendszer
 local = Helyi
 nix = Nix
 xdg-title = { app-name }
-xdg-comment = Egy alkalmazásindító a COSMIC asztali környezethez, amely rácsnézetben listázza az összes telepített alkalmazást
+xdg-comment = Egy alkalmazásindító a Zinc asztali környezethez, amely rácsnézetben listázza az összes telepített alkalmazást
 xdg-keywords = App;Alkalmazás;Könyvtár;Indító
 app-name = Alkalmazások

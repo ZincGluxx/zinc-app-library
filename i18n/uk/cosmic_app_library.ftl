@@ -26,6 +26,6 @@ system = Система
 local = Локальний
 nix = Nix
 xdg-title = { app-name }
-xdg-comment = Бібліотека застосунків стільниці COSMIC із сітковим розташуванням встановлених програм
+xdg-comment = Бібліотека застосунків стільниці Zinc із сітковим розташуванням встановлених програм
 xdg-keywords = Застосунок;Програма;Бібліотека;Запускач;App;Application;Library;Launcher
 app-name = Застосунки

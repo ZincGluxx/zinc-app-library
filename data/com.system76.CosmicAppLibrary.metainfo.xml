@@ -10,19 +10,19 @@
   <url type="homepage">https://github.com/pop-os/cosmic-app-library</url>
   <url type="bugtracker">https://github.com/pop-os/cosmic-app-library/issues</url>
   <name>Applications</name>
-  <summary>An application launcher for the COSMIC desktop that lists all installed applications in a grid</summary>
+  <summary>An application launcher for the Zinc desktop that lists all installed applications in a grid</summary>
   <description>
-    <p>The default application library for the COSMIC desktop</p>
-    <p xml:lang="ar">مكتبة التطبيقات المبدئية لسطح مكتب COSMIC</p>
-    <p xml:lang="cs">Výchozí knihovna aplikací pro prostředí COSMIC</p>
-    <p xml:lang="hu">A COSMIC asztali környezet alapértelmezett alkalmazáskönyvtára</p>
-    <p xml:lang="pt_BR">A aplicação padrão de biblioteca de aplicativos do desktop COSMIC</p>
-    <p xml:lang="pt">A aplicação padrão de biblioteca de aplicativos do desktop COSMIC</p>
-    <p xml:lang="ru">Библиотека приложений по умолчанию для оболочки COSMIC</p>
-    <p xml:lang="sk">Predvolená knižnica aplikácií pre pracovné prostredie COSMIC</p>
-    <p xml:lang="es">Biblioteca de aplicaciones para el escritorio COSMIC</p>
-    <p xml:lang="sv">Standard programbibliotek för skrivbordsmiljön COSMIC</p>
-    <p xml:lang="it">Libreria applicazioni di default per il desktop COSMIC</p>
+    <p>The default application library for the Zinc desktop</p>
+    <p xml:lang="ar">مكتبة التطبيقات المبدئية لسطح مكتب Zinc</p>
+    <p xml:lang="cs">Výchozí knihovna aplikací pro prostředí Zinc</p>
+    <p xml:lang="hu">A Zinc asztali környezet alapértelmezett alkalmazáskönyvtára</p>
+    <p xml:lang="pt_BR">A aplicação padrão de biblioteca de aplicativos do desktop Zinc</p>
+    <p xml:lang="pt">A aplicação padrão de biblioteca de aplicativos do desktop Zinc</p>
+    <p xml:lang="ru">Библиотека приложений по умолчанию для оболочки Zinc</p>
+    <p xml:lang="sk">Predvolená knižnica aplikácií pre pracovné prostredie Zinc</p>
+    <p xml:lang="es">Biblioteca de aplicaciones para el escritorio Zinc</p>
+    <p xml:lang="sv">Standard programbibliotek för skrivbordsmiljön Zinc</p>
+    <p xml:lang="it">Libreria applicazioni di default per il desktop Zinc</p>
   </description>
   <launchable type="desktop-id">com.system76.CosmicAppLibrary.desktop</launchable>
   <keywords>

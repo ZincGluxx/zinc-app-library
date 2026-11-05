@@ -26,6 +26,6 @@ system = System
 local = Lokalt
 nix = Nix
 xdg-title = { app-name }
-xdg-comment = En programstartare för skrivbordsmiljön COSMIC, som listar alla installerade program i ett rutnät
+xdg-comment = En programstartare för skrivbordsmiljön Zinc, som listar alla installerade program i ett rutnät
 xdg-keywords = App;Program;Applikation;Bibliotek;Startare
 app-name = Program
